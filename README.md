@@ -20,3 +20,7 @@ Aplikasi web statis untuk prosedur laboratorium dan kalkulator analisis.
 
 ## Catatan
 Prosedur dan gambar yang ditambahkan melalui halaman saat ini hanya tampil selama sesi browser; fitur penyimpanan permanen prosedur/foto akan ditambahkan pada versi berikutnya. Pengaturan standar FFA dan normalitas tersimpan di browser.
+
+
+## Install sebagai aplikasi (PWA)
+File manifest dan service worker sudah ditambahkan. Deploy seluruh isi folder ke GitHub Pages, lalu buka URL di Chrome Android dan gunakan menu **Install app** atau **Add to Home screen**.
